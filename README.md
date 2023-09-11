@@ -9,11 +9,11 @@ I'm Suvinay Sawant , I'm a software engineer 👨‍💻 who is passionate about
 
 
 
-- 🔭 I’m currently working on Blockchain
+- 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
--  ⚡ Languages: Java, Python, Html/Css,Javascript,
+-  ⚡  Tech Stack / Languages : Java, Html/Css,Javascript,NodeJS,ExpressJS,MongoDB,React,Redis
 
 
 <!---
